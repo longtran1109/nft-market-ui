@@ -1,0 +1,10 @@
+export { default as CoinIcon } from './coinIcon';
+export { default as RankingIcon } from './rankingIcon';
+export { default as VideoIcon } from './videoIcon';
+export { default as HorseIcon } from './horseIcon';
+export { default as NewNftIcon } from './newIcon';
+export { default as AirplaneIcon } from './airplaneIcon';
+export { default as Menubar } from './menuBar';
+export { default as  CloseIcon } from './closeIcon';
+export { default as LeftArrow } from './leftArrow';
+export { default as RightArrow } from './rightArrow';
